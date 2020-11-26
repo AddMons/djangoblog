@@ -27,7 +27,7 @@ SECRET_KEY = '37y#%7q=)mcaz(72@#cohe_09*^q#u@#=t+&qp+p35!ty5q52+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['addmons.pythonanywhere.com']
 
 
 # Application definition
